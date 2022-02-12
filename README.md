@@ -1,4 +1,5 @@
 # Getting Started
+This project build using Spring Boot, JPA, Hibernate, Postgres, Swagger
 
 ### Reference Documentation
 For further reference, please consider the following sections:
